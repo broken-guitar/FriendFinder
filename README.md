@@ -19,7 +19,3 @@ NPM Express
 HTML
 Jquery
 CSS
-
-Acknowledgments:
-
-UC Berkeley Coding Boot Camp Staff
