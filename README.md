@@ -8,7 +8,7 @@ Friend Finder is deployed to Heroku: https://df-friendfinder-2020.herokuapp.com/
 
 Customers can use the customer app to view products and make purchases. Managing inventory, overhead costs, and viewing sales reports are also possible through stand-alone versions of the Bamazon app.
 
-### Installation
+### Project Installation
 
 1. Install Node 
 2. Clone or download the repo.
